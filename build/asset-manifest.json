@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/laubento/Clima-APP/static/css/main.86af438d.chunk.css",
+    "main.js": "/laubento/Clima-APP/static/js/main.d954c275.chunk.js",
+    "main.js.map": "/laubento/Clima-APP/static/js/main.d954c275.chunk.js.map",
+    "runtime-main.js": "/laubento/Clima-APP/static/js/runtime-main.280b45d8.js",
+    "runtime-main.js.map": "/laubento/Clima-APP/static/js/runtime-main.280b45d8.js.map",
+    "static/js/2.44c7d7b1.chunk.js": "/laubento/Clima-APP/static/js/2.44c7d7b1.chunk.js",
+    "static/js/2.44c7d7b1.chunk.js.map": "/laubento/Clima-APP/static/js/2.44c7d7b1.chunk.js.map",
+    "index.html": "/laubento/Clima-APP/index.html",
+    "static/css/main.86af438d.chunk.css.map": "/laubento/Clima-APP/static/css/main.86af438d.chunk.css.map",
+    "static/js/2.44c7d7b1.chunk.js.LICENSE.txt": "/laubento/Clima-APP/static/js/2.44c7d7b1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/laubento/Clima-APP/static/media/FondoPaisaje.14225f5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.280b45d8.js",
+    "static/js/2.44c7d7b1.chunk.js",
+    "static/css/main.86af438d.chunk.css",
+    "static/js/main.d954c275.chunk.js"
+  ]
+}
