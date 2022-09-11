@@ -1,0 +1,82 @@
+.contenedor-Card{
+  background-color: rgb(255, 255, 255, 0.6);
+  box-shadow: 0px 0px 30px black;
+  padding: 5px;
+  height: 120px;
+  width: 270px;
+  margin: 20px;
+  border-radius: 2px;
+  transition: all 0.8s ease;
+  display: flex;
+  flex-direction: column;
+}
+p{
+  /* font-family: 'Kanit'; */
+}
+.contenedor-Card:hover{
+  background-color:rgb(194, 187, 187);
+}
+.boton{
+  font-family: 'Kanit';
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 15px;
+  color: red;
+  opacity: 0.6;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.boton:hover{
+  opacity: 1;
+}
+.link-name{
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Kanit';
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  transition: all 0.2s;
+}
+.link-name:hover{
+  color: rgb(112, 68, 68);
+}
+.container-temperatura{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+/* .contenedor-img{
+  height: 65px;
+  display: flex;
+  justify-content: center;
+} */
+.contenedor-img img{
+  height: 50%;
+  width: 70%;
+}
+.temperatura p{
+  margin: 0px 0px 10px 0px;
+}
+/* .nombre{
+  font-size: 20px;
+  font-family: 'Kanit';
+  display: flex;
+  justify-content: end;
+  margin-right: 30px;
+} */
+/* .temperatura{
+  width: 150px;
+  margin: -18px 0px 0px -10px;
+}
+.contenedor-img{
+  display: inline;
+  display: flex;
+  height: 90px;
+  width: 90px;
+  border-radius: 20px;
+  margin: -95px 0px 0px 160px;
+} */

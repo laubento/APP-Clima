@@ -1,0 +1,52 @@
+.container-principal-about{
+    display: flex;
+}
+
+.container-oscuro{
+    background-color: rgba(0, 0, 0, 0.61);
+    width: 50%;
+    height: 100vh;
+}
+.container-oscuro a{
+    margin-left: 10px;
+    transition: all 0.2s;
+}
+.container-oscuro a:hover{
+    color: red;
+}
+.container-oscuro h1{
+    color: aliceblue;
+    font-family: 'Kanit';
+}
+.container-oscuro p{
+    color: aliceblue;
+    font-family: 'Kanit';
+    display: flex;
+    margin-left: 20px;
+}
+.container-claro{
+    background-color: rgb(0, 0, 0);
+    width: 50%;
+    height: 100vh;
+}
+.container-claro h1{
+    color: aliceblue;
+    font-family: 'Kanit';
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.container-claro p{
+    color: aliceblue;
+    font-family: 'Kanit';
+    display: flex;
+    margin-left: 20px;
+
+}
+.container-claro a{
+    transition: all 0.2s;
+}
+.container-claro a:hover{
+    color: red;
+}

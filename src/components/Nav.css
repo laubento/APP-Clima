@@ -1,0 +1,41 @@
+.container-principal{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(84, 90, 89);
+  padding: 10px;
+  align-items: center;
+  user-select: none;
+}
+.logo-clima{
+  /* height: 20%; */
+  width: 20%;
+  margin: 0px 10px;
+}
+.container-home{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  font-family: 'Kanit';
+  text-decoration: none;
+  color: aliceblue;
+  transition: all 0.2s;
+}
+.container-home:hover{
+  color: black;
+}
+.link{
+  text-decoration: none;
+}
+.about{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: aliceblue;
+  font-family: 'Kanit';
+  transition: all 0.2s;
+  align-items: center;
+}
+.about:hover{
+  color: black;
+}
