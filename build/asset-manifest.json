@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/laubento/Clima-APP/static/css/main.86af438d.chunk.css",
-    "main.js": "/laubento/Clima-APP/static/js/main.08ea9ffa.chunk.js",
-    "main.js.map": "/laubento/Clima-APP/static/js/main.08ea9ffa.chunk.js.map",
-    "runtime-main.js": "/laubento/Clima-APP/static/js/runtime-main.280b45d8.js",
-    "runtime-main.js.map": "/laubento/Clima-APP/static/js/runtime-main.280b45d8.js.map",
-    "static/js/2.44c7d7b1.chunk.js": "/laubento/Clima-APP/static/js/2.44c7d7b1.chunk.js",
-    "static/js/2.44c7d7b1.chunk.js.map": "/laubento/Clima-APP/static/js/2.44c7d7b1.chunk.js.map",
-    "index.html": "/laubento/Clima-APP/index.html",
-    "static/css/main.86af438d.chunk.css.map": "/laubento/Clima-APP/static/css/main.86af438d.chunk.css.map",
-    "static/js/2.44c7d7b1.chunk.js.LICENSE.txt": "/laubento/Clima-APP/static/js/2.44c7d7b1.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/laubento/Clima-APP/static/media/FondoPaisaje.14225f5d.jpg"
+    "main.css": "/laubento/App-Clima/static/css/main.4f381f00.chunk.css",
+    "main.js": "/laubento/App-Clima/static/js/main.cfcf9729.chunk.js",
+    "main.js.map": "/laubento/App-Clima/static/js/main.cfcf9729.chunk.js.map",
+    "runtime-main.js": "/laubento/App-Clima/static/js/runtime-main.d4481e80.js",
+    "runtime-main.js.map": "/laubento/App-Clima/static/js/runtime-main.d4481e80.js.map",
+    "static/js/2.f90f495d.chunk.js": "/laubento/App-Clima/static/js/2.f90f495d.chunk.js",
+    "static/js/2.f90f495d.chunk.js.map": "/laubento/App-Clima/static/js/2.f90f495d.chunk.js.map",
+    "index.html": "/laubento/App-Clima/index.html",
+    "static/css/main.4f381f00.chunk.css.map": "/laubento/App-Clima/static/css/main.4f381f00.chunk.css.map",
+    "static/js/2.f90f495d.chunk.js.LICENSE.txt": "/laubento/App-Clima/static/js/2.f90f495d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/laubento/App-Clima/static/media/FondoPaisaje.14225f5d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.280b45d8.js",
-    "static/js/2.44c7d7b1.chunk.js",
-    "static/css/main.86af438d.chunk.css",
-    "static/js/main.08ea9ffa.chunk.js"
+    "static/js/runtime-main.d4481e80.js",
+    "static/js/2.f90f495d.chunk.js",
+    "static/css/main.4f381f00.chunk.css",
+    "static/js/main.cfcf9729.chunk.js"
   ]
 }

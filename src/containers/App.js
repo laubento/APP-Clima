@@ -54,11 +54,11 @@ function App() {
   }
   return (
     <div className="App">
-        <Route path='https://laubento.github.io/Clima-APP/' render={() => <Nav onSearch={onSearch}/>} />
+        <Route path='/' render={() => <Nav onSearch={onSearch}/>} />
       <hr />
         <Route path='/about' component={About} />
         <Route exact path='/ciudad/:ciudadId' render={({match}) => <Ciudad city={onFilter(match.params.ciudadId)}/>}/>
-        <Route exact={true} path='https://laubento.github.io/Clima-APP/' render={() => <Cards cities={cities} onClose={onClose}/>} />
+        <Route exact={true} path='/' render={() => <Cards cities={cities} onClose={onClose}/>} />
     </div>
   );
 }
