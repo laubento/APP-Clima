@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/APP-Clima/static/css/main.090a4d05.chunk.css",
+    "main.js": "/APP-Clima/static/js/main.994c06fd.chunk.js",
+    "main.js.map": "/APP-Clima/static/js/main.994c06fd.chunk.js.map",
+    "runtime-main.js": "/APP-Clima/static/js/runtime-main.6336a89d.js",
+    "runtime-main.js.map": "/APP-Clima/static/js/runtime-main.6336a89d.js.map",
+    "static/js/2.f90f495d.chunk.js": "/APP-Clima/static/js/2.f90f495d.chunk.js",
+    "static/js/2.f90f495d.chunk.js.map": "/APP-Clima/static/js/2.f90f495d.chunk.js.map",
+    "index.html": "/APP-Clima/index.html",
+    "static/css/main.090a4d05.chunk.css.map": "/APP-Clima/static/css/main.090a4d05.chunk.css.map",
+    "static/js/2.f90f495d.chunk.js.LICENSE.txt": "/APP-Clima/static/js/2.f90f495d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/APP-Clima/static/media/FondoPaisaje.14225f5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6336a89d.js",
+    "static/js/2.f90f495d.chunk.js",
+    "static/css/main.090a4d05.chunk.css",
+    "static/js/main.994c06fd.chunk.js"
+  ]
+}
